@@ -1,0 +1,13 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 4215-2358
+
+ Directory of E:\mygitproject
+
+04/19/2020  05:12 PM    <DIR>          .
+04/19/2020  05:12 PM    <DIR>          ..
+03/15/2020  01:27 PM               342 a.txt
+04/19/2020  04:36 PM               432 b.txt
+04/19/2020  05:12 PM                 0 c.txt
+03/15/2020  01:27 PM               386 index.html
+               4 File(s)          1,160 bytes
+               2 Dir(s)  31,216,766,976 bytes free
